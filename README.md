@@ -1,2 +1,2 @@
 # ludus-log-generator
-A simple header-only logging system for Ludus, a voxel game.
+A simple header-only logger for Ludus, a voxel game.
